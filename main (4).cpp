@@ -6,7 +6,7 @@ using namespace std;
 class product
 {
     public:
-    int stock,sum,cp,sp,total,quan,bill;
+    int stock,sum,cp,sp,total,quan,bill,summa;
     string id,name;
     product()
     {
